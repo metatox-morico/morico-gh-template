@@ -1,1 +1,0 @@
-Sitemap: https://metatox-morico.github.io/morico-gh-template/sitemap.xml
