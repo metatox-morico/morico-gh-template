@@ -30,4 +30,4 @@ Utilisez les instructions [ici](https://quarto.org/docs/publishing/github-pages.
 
 
 # Lien pour rapport Quarto
-https://rroyaute.github.io/gh-template-rr/
+https://metatox-morico.github.io/morico-gh-template/
